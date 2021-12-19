@@ -1,0 +1,396 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "HR-APP-.YYYY.-.#####",
+ "creation": "2013-01-29 19:25:37",
+ "description": "Applicant for a Job",
+ "doctype": "DocType",
+ "document_type": "Document",
+ "email_append_to": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_1",
+  "\u0627\u0633\u0645_\u0627\u0644\u0623\u0628",
+  "\u0627\u0644\u0639\u0627\u0626\u0644\u0629",
+  "birth_date",
+  "phone_number",
+  "country",
+  "column_break_4",
+  "applicant_name",
+  "\u0627\u0633\u0645_\u0627\u0644\u062c\u062f",
+  "national_id",
+  "email_id",
+  "nationality",
+  "section_break_2",
+  "\u0627\u0644\u0645\u0633\u0645\u0649_\u0627\u0644\u0648\u0638\u064a\u0641\u064a_\u0627\u0644\u062d\u0627\u0644\u064a",
+  "column_break_13",
+  "\u0627\u0644\u062d\u0627\u0644\u0629_\u0627\u0644\u0648\u0638\u064a\u0641\u064a\u0629",
+  "section_break_18",
+  "external_work_history",
+  "section_break_11",
+  "qualifications",
+  "section_break_6",
+  "notes",
+  "source",
+  "resume_link",
+  "column_break_26",
+  "expected_salary",
+  "resume_attachment",
+  "section_break_3",
+  "status",
+  "job_title",
+  "city",
+  "source_name",
+  "employee_referral",
+  "\u0627\u0644\u0637\u0645\u0648\u062d\u0627\u062a_\u0627\u0644\u0639\u0645\u0644\u064a\u0629",
+  "\u0647\u0644_\u0645\u0646_\u0627\u0644\u0645\u062a\u0648\u0642\u0639_\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u062a\u0647_\u0641\u064a_\u0627\u0644\u0639\u0645\u0644_\u0644\u062f\u0649_\u0627\u0644\u0647\u064a\u0626\u0629",
+  "employee",
+  "\u0627\u0644\u062a\u0648\u0635\u064a\u0629_\u0628\u0627\u0644\u062a\u0648\u0638\u064a\u0641",
+  "\u062a\u0648\u0642\u064a\u0639",
+  "column_break_3",
+  "applicant_rating",
+  "look_rating",
+  "\u0627\u0644\u0634\u062e\u0635\u064a\u0629",
+  "\u0627\u0644\u062b\u0642\u0629",
+  "\u0645\u0647\u0627\u0631\u0627\u062a_\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629",
+  "\u0627\u0644\u0644\u063a\u0629_\u0627\u0644\u0627\u0646\u062c\u0644\u064a\u0632\u064a\u0629",
+  "\u0627\u0644\u0644\u063a\u0629_\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+  "\u0627\u0644\u0627\u0633\u062a\u064a\u0639\u0627\u0628",
+  "\u0645\u0644\u0627\u0626\u0645\u0629_\u0627\u0644\u0645\u0624\u0647\u0644_\u0627\u0644\u0639\u0644\u0645\u064a_\u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a_\u0627\u0644\u0648\u0638\u064a\u0641\u0629",
+  "\u0645\u0644\u0627\u0626\u0645\u0629_\u0627\u0644\u062e\u0628\u0631\u0627\u062a_\u0627\u0644\u0639\u0644\u0645\u064a\u0629_\u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a_\u0627\u0644\u0648\u0638\u064a\u0641\u0629",
+  "\u0645\u0644\u0627\u0626\u0645\u0629_\u0627\u0644\u0645\u0647\u0627\u0631\u0627\u062a_\u0627\u0644\u0645\u062a\u0643\u0633\u0628\u0629",
+  "\u062a\u0642\u064a\u064a\u0645_\u0627\u0644\u0645\u062f\u064a\u0631_\u0627\u0644\u0645\u0633\u0624\u0648\u0644",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_1",
+   "fieldtype": "Section Break",
+   "label": "\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u062a\u0642\u062f\u0645"
+  },
+  {
+   "fieldname": "\u0627\u0633\u0645_\u0627\u0644\u0623\u0628",
+   "fieldtype": "Data",
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u0623\u0628"
+  },
+  {
+   "fieldname": "\u0627\u0644\u0639\u0627\u0626\u0644\u0629",
+   "fieldtype": "Data",
+   "label": "\u0627\u0644\u0639\u0627\u0626\u0644\u0629",
+   "reqd": 1
+  },
+  {
+   "fieldname": "phone_number",
+   "fieldtype": "Data",
+   "label": "\u0631\u0642\u0645 \u0627\u0644\u062c\u0648\u0627\u0644",
+   "options": "Phone"
+  },
+  {
+   "fieldname": "country",
+   "fieldtype": "Link",
+   "label": "\u0627\u0644\u062f\u0648\u0644\u0629",
+   "options": "Country"
+  },
+  {
+   "fieldname": "column_break_4",
+   "fieldtype": "Column Break"
+  },
+  {
+   "bold": 1,
+   "fieldname": "applicant_name",
+   "fieldtype": "Data",
+   "in_global_search": 1,
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u0645\u062a\u0642\u062f\u0645",
+   "reqd": 1,
+   "translatable": 1
+  },
+  {
+   "fieldname": "\u0627\u0633\u0645_\u0627\u0644\u062c\u062f",
+   "fieldtype": "Data",
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u062c\u062f"
+  },
+  {
+   "bold": 1,
+   "fieldname": "email_id",
+   "fieldtype": "Data",
+   "label": "\u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u064a",
+   "options": "Email",
+   "reqd": 1,
+   "set_only_once": 1,
+   "translatable": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "nationality",
+   "fieldtype": "Link",
+   "label": "\u0627\u0644\u062c\u0646\u0633\u064a\u0629",
+   "options": "Country"
+  },
+  {
+   "fieldname": "birth_date",
+   "fieldtype": "Date",
+   "label": "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0645\u064a\u0644\u0627\u062f"
+  },
+  {
+   "fieldname": "section_break_2",
+   "fieldtype": "Section Break",
+   "label": "\u0627\u0644\u062e\u0628\u0631\u0627\u062a"
+  },
+  {
+   "default": "Employee External Work History",
+   "fieldname": "external_work_history",
+   "fieldtype": "Table",
+   "label": " \u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0627\u0644\u0633\u0627\u0628\u0642\u0629",
+   "options": "Past Experience"
+  },
+  {
+   "fieldname": "column_break_13",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "\u0627\u0644\u062d\u0627\u0644\u0629_\u0627\u0644\u0648\u0638\u064a\u0641\u064a\u0629",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "\u0627\u0644\u062d\u0627\u0644\u0629 \u0627\u0644\u0648\u0638\u064a\u0641\u064a\u0629",
+   "options": "\n\u0645\u0648\u0638\u0641\n\u0628\u0627\u062d\u062b \u0639\u0646 \u0639\u0645\u0644"
+  },
+  {
+   "fieldname": "\u0627\u0644\u0645\u0633\u0645\u0649_\u0627\u0644\u0648\u0638\u064a\u0641\u064a_\u0627\u0644\u062d\u0627\u0644\u064a",
+   "fieldtype": "Select",
+   "label": "\u0627\u0644\u0645\u0633\u0645\u0649 \u0627\u0644\u0648\u0638\u064a\u0641\u064a \u0627\u0644\u062d\u0627\u0644\u064a",
+   "options": "\u0627\u062e\u0635\u0627\u0626\u064a\n\u0645\u062d\u0644\u0644\n\u0645\u0647\u0646\u062f\u0633\n\u0645\u0634\u0631\u0641\n\u0645\u062f\u064a\u0631\n\u0631\u0626\u064a\u0633 \u0642\u0633\u0645"
+  },
+  {
+   "fieldname": "section_break_11",
+   "fieldtype": "Section Break",
+   "label": "\u0627\u0644\u0645\u0624\u0647\u0644"
+  },
+  {
+   "fieldname": "qualifications",
+   "fieldtype": "Table",
+   "label": "\u0627\u0644\u0645\u0624\u0647\u0644\u0627\u062a \u0627\u0644\u0639\u0644\u0645\u064a\u0629",
+   "options": "Academic Qualifications"
+  },
+  {
+   "fieldname": "section_break_6",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Data",
+   "label": "\u0645\u0644\u0627\u062d\u0638\u0627\u062a",
+   "read_only": 1
+  },
+  {
+   "fieldname": "resume_attachment",
+   "fieldtype": "Attach",
+   "label": "\u0645\u0631\u0641\u0642 \u0627\u0644\u0633\u064a\u0631\u0629 \u0627\u0644\u0630\u0627\u062a\u064a\u0629"
+  },
+  {
+   "fieldname": "resume_link",
+   "fieldtype": "Data",
+   "label": "\u0631\u0627\u0628\u0637 \u0635\u0641\u062d\u0629 \u0644\u064a\u0646\u0643\u062f\u0627\u0646"
+  },
+  {
+   "fieldname": "expected_salary",
+   "fieldtype": "Float",
+   "label": "\u0627\u0644\u0631\u0627\u062a\u0628 \u0627\u0644\u0645\u062a\u0648\u0642\u0639"
+  },
+  {
+   "fieldname": "source",
+   "fieldtype": "Link",
+   "label": "\u0643\u064a\u0641 \u0633\u0645\u0639\u062a \u0639\u0646\u0627",
+   "options": "Job Applicant Source"
+  },
+  {
+   "fieldname": "section_break_3",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "\u0627\u0644\u062d\u0627\u0644\u0629",
+   "options": "Open\nReplied\nRejected\nHold\nAccepted",
+   "translatable": 1
+  },
+  {
+   "fieldname": "job_title",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "\u0627\u0644\u0645\u0646\u0635\u0628 \u0627\u0644\u0648\u0638\u064a\u0641\u064a",
+   "options": "Job Opening"
+  },
+  {
+   "depends_on": "eval: doc.source==\"Employee Referral\" ",
+   "fieldname": "source_name",
+   "fieldtype": "Link",
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u0645\u0635\u062f\u0631",
+   "options": "Employee"
+  },
+  {
+   "fieldname": "employee_referral",
+   "fieldtype": "Link",
+   "label": "\u062a\u0648\u0635\u064a\u0629 \u0645\u0648\u0638\u0641",
+   "options": "Employee Referral",
+   "read_only": 1
+  },
+  {
+   "fieldname": "\u0627\u0644\u0637\u0645\u0648\u062d\u0627\u062a_\u0627\u0644\u0639\u0645\u0644\u064a\u0629",
+   "fieldtype": "Select",
+   "label": "\u0627\u0644\u0637\u0645\u0648\u062d\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u064a\u0629",
+   "options": "\n\u0645\u0628\u0627\u0644\u063a\n\u0645\u0639\u0642\u0648\u0644\n\u063a\u064a\u0631 \u0648\u0627\u0636\u062d\u0629"
+  },
+  {
+   "fieldname": "\u0647\u0644_\u0645\u0646_\u0627\u0644\u0645\u062a\u0648\u0642\u0639_\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u062a\u0647_\u0641\u064a_\u0627\u0644\u0639\u0645\u0644_\u0644\u062f\u0649_\u0627\u0644\u0647\u064a\u0626\u0629",
+   "fieldtype": "Select",
+   "label": "\u0647\u0644 \u0645\u0646 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u062a\u0647 \u0641\u064a \u0627\u0644\u0639\u0645\u0644 \u0644\u062f\u0649 \u0627\u0644\u0647\u064a\u0626\u0629",
+   "options": "\n\u0646\u0639\u0645\n\u0644\u0627"
+  },
+  {
+   "fieldname": "column_break_3",
+   "fieldtype": "Column Break",
+   "width": "50%"
+  },
+  {
+   "fieldname": "applicant_rating",
+   "fieldtype": "Rating",
+   "in_list_view": 1,
+   "label": "\u062a\u0642\u064a\u064a\u0645 \u0627\u0644\u0645\u062a\u0642\u062f\u0645"
+  },
+  {
+   "fieldname": "look_rating",
+   "fieldtype": "Rating",
+   "label": "\u0627\u0644\u0645\u0638\u0647\u0631"
+  },
+  {
+   "fieldname": "\u0627\u0644\u0634\u062e\u0635\u064a\u0629",
+   "fieldtype": "Rating",
+   "label": "\u0627\u0644\u0634\u062e\u0635\u064a\u0629"
+  },
+  {
+   "fieldname": "\u0627\u0644\u062b\u0642\u0629",
+   "fieldtype": "Rating",
+   "label": "\u0627\u0644\u062b\u0642\u0629"
+  },
+  {
+   "fieldname": "\u0645\u0647\u0627\u0631\u0627\u062a_\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629",
+   "fieldtype": "Rating",
+   "label": "\u0627\u0644\u0645\u0628\u0627\u062f\u0631\u0629"
+  },
+  {
+   "fieldname": "\u0627\u0644\u0644\u063a\u0629_\u0627\u0644\u0627\u0646\u062c\u0644\u064a\u0632\u064a\u0629",
+   "fieldtype": "Rating",
+   "label": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0627\u0646\u062c\u0644\u064a\u0632\u064a\u0629"
+  },
+  {
+   "fieldname": "\u0627\u0644\u0644\u063a\u0629_\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+   "fieldtype": "Rating",
+   "label": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+  },
+  {
+   "fieldname": "\u0627\u0644\u0627\u0633\u062a\u064a\u0639\u0627\u0628",
+   "fieldtype": "Rating",
+   "label": "\u0627\u062a\u062e\u0627\u0630 \u0627\u0644\u0642\u0631\u0627\u0631"
+  },
+  {
+   "fieldname": "\u0645\u0644\u0627\u0626\u0645\u0629_\u0627\u0644\u0645\u0624\u0647\u0644_\u0627\u0644\u0639\u0644\u0645\u064a_\u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a_\u0627\u0644\u0648\u0638\u064a\u0641\u0629",
+   "fieldtype": "Rating",
+   "label": "\u0645\u0644\u0627\u0626\u0645\u0629 \u0627\u0644\u0645\u0624\u0647\u0644 \u0627\u0644\u0639\u0644\u0645\u064a \u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0648\u0638\u064a\u0641\u0629"
+  },
+  {
+   "fieldname": "\u0645\u0644\u0627\u0626\u0645\u0629_\u0627\u0644\u062e\u0628\u0631\u0627\u062a_\u0627\u0644\u0639\u0644\u0645\u064a\u0629_\u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a_\u0627\u0644\u0648\u0638\u064a\u0641\u0629",
+   "fieldtype": "Rating",
+   "label": "\u0645\u0644\u0627\u0626\u0645\u0629 \u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0627\u0644\u0639\u0644\u0645\u064a\u0629 \u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0648\u0638\u064a\u0641\u0629"
+  },
+  {
+   "fieldname": "\u0645\u0644\u0627\u0626\u0645\u0629_\u0627\u0644\u0645\u0647\u0627\u0631\u0627\u062a_\u0627\u0644\u0645\u062a\u0643\u0633\u0628\u0629",
+   "fieldtype": "Rating",
+   "label": "\u0645\u0644\u0627\u0626\u0645\u0629 \u0627\u0644\u0645\u0647\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u062a\u0643\u0633\u0628\u0629"
+  },
+  {
+   "fieldname": "\u0627\u0644\u062a\u0648\u0635\u064a\u0629_\u0628\u0627\u0644\u062a\u0648\u0638\u064a\u0641",
+   "fieldtype": "Select",
+   "label": "\u0627\u0644\u062a\u0648\u0635\u064a\u0629 \u0628\u0627\u0644\u062a\u0648\u0638\u064a\u0641",
+   "options": "\n\u0627\u0648\u0635\u064a \u0628\u062a\u0648\u0638\u064a\u0641\u0647\n\u0644\u0627 \u0627\u0648\u0635\u064a \u0628\u062a\u0648\u0638\u064a\u0641\u0647\n\u0637\u0644\u0628 \u0645\u0642\u0627\u0628\u0644\u0629 \u0627\u062e\u0631\u0649"
+  },
+  {
+   "fieldname": "employee",
+   "fieldtype": "Link",
+   "label": "\u0627\u0633\u0645 \u0645\u062c\u0631\u064a \u0645\u0642\u0627\u0628\u0644\u0629 \u0627\u0644\u062a\u0648\u0638\u064a\u0641",
+   "options": "Employee"
+  },
+  {
+   "fieldname": "\u062a\u0648\u0642\u064a\u0639",
+   "fieldtype": "Signature",
+   "label": "\u0627\u0644\u062a\u0648\u0642\u064a\u0639"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Job Applicant",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "fieldname": "national_id",
+   "fieldtype": "Data",
+   "label": "\u0627\u0644\u0647\u0648\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629",
+   "reqd": 1
+  },
+  {
+   "fieldname": "section_break_18",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_26",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "\u062a\u0642\u064a\u064a\u0645_\u0627\u0644\u0645\u062f\u064a\u0631_\u0627\u0644\u0645\u0633\u0624\u0648\u0644",
+   "fieldtype": "Rating",
+   "label": "\u062a\u0642\u064a\u064a\u0645 \u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u0645\u0633\u0624\u0648\u0644"
+  },
+  {
+   "fetch_from": "job_title.city",
+   "fieldname": "city",
+   "fieldtype": "Read Only",
+   "in_list_view": 1,
+   "label": "\u0627\u0644\u0645\u062f\u064a\u0646\u0629"
+  }
+ ],
+ "icon": "fa fa-user",
+ "idx": 1,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2021-09-18 22:08:25.462944",
+ "modified_by": "Administrator",
+ "module": "KSRNR Customisations",
+ "name": "Job Applicant",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "HR User",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "search_fields": "applicant_name",
+ "sender_field": "email_id",
+ "sort_field": "modified",
+ "sort_order": "ASC",
+ "subject_field": "notes",
+ "title_field": "applicant_name",
+ "track_changes": 1,
+ "track_seen": 1,
+ "track_views": 1
+}

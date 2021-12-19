@@ -1,0 +1,25 @@
+{
+ "cards": [
+  {
+   "card": "Plants"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Plants",
+   "width": "Half"
+  }
+ ],
+ "creation": "2021-10-12 10:46:37.342461",
+ "dashboard_name": "Plants",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 1,
+ "is_standard": 1,
+ "modified": "2021-10-12 11:01:19.262783",
+ "modified_by": "Administrator",
+ "module": "KSRNR Customisations",
+ "name": "Plants",
+ "owner": "Administrator"
+}

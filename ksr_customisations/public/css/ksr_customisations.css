@@ -1,0 +1,10 @@
+.form-page{
+direction: rtl !important;
+text-align: right !important;
+}
+
+.web-form-wrapper .form-column:first-child {
+    padding-left: 15px  !important;
+}
+
+

@@ -1,0 +1,104 @@
+{
+ "actions": [],
+ "creation": "2021-09-07 09:58:26.064143",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "dependents_id_no",
+  "id_expired_date",
+  "full_name",
+  "fathe_name1",
+  "fam_name1",
+  "relation",
+  "gender",
+  "date_of_birth",
+  "mobile_no",
+  "nationality",
+  "depnd_attach"
+ ],
+ "fields": [
+  {
+   "fieldname": "dependents_id_no",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "\u0631\u0642\u0645 \u0647\u0648\u064a\u0629 \u0627\u0644\u062a\u0627\u0628\u0639"
+  },
+  {
+   "fieldname": "id_expired_date",
+   "fieldtype": "Date",
+   "label": " \u062a\u0627\u0631\u064a\u062e \u0627\u0646\u062a\u0647\u0627\u0621 \u0627\u0644\u0647\u0648\u064a\u0629 \u0628\u0627\u0644\u0645\u064a\u0644\u0627\u062f\u064a"
+  },
+  {
+   "fieldname": "full_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "  (\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0627\u0646\u062c\u0644\u064a\u0632\u064a\u0629) \u0627\u0633\u0645 \u0627\u0644\u062a\u0627\u0628\u0639"
+  },
+  {
+   "fieldname": "relation",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "\u0646\u0648\u0639 \u0627\u0644\u0639\u0644\u0627\u0642\u0629",
+   "options": "\n\u0627\u0628\u0646\n\u0627\u0628\u0646\u0629\n\u0632\u0648\u062c\n\u0632\u0648\u062c\u0629\n\u0627\u0645\n\u0627\u0628",
+   "translatable": 1
+  },
+  {
+   "fieldname": "gender",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "\u0627\u0644\u062c\u0646\u0633",
+   "options": "\u0630\u0643\u0631\n\u0627\u0646\u062b\u0649"
+  },
+  {
+   "fieldname": "date_of_birth",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0645\u064a\u0644\u0627\u062f"
+  },
+  {
+   "fieldname": "mobile_no",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "\u0631\u0642\u0645 \u0627\u0644\u062a\u0648\u0627\u0635\u0644"
+  },
+  {
+   "bold": 1,
+   "fieldname": "depnd_attach",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "label": "\u0645\u0631\u0641\u0642 \u0647\u0648\u064a\u0629 \u0627\u0644\u062a\u0627\u0628\u0639",
+   "search_index": 1
+  },
+  {
+   "fieldname": "fathe_name1",
+   "fieldtype": "Data",
+   "label": "  (\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0627\u0646\u062c\u0644\u064a\u0632\u064a\u0629) \u0627\u0633\u0645 \u0627\u0644\u0627\u0628"
+  },
+  {
+   "fieldname": "fam_name1",
+   "fieldtype": "Data",
+   "label": "  (\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0627\u0646\u062c\u0644\u064a\u0632\u064a\u0629)\u0627\u0633\u0645 \u0627\u0644\u0639\u0627\u0626\u0644\u0629"
+  },
+  {
+   "fieldname": "nationality",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "\u0627\u0644\u062c\u0646\u0633\u064a\u0629",
+   "options": "Saudi/\u0633\u0639\u0648\u062f\u064a\nNon Saudi/\u063a\u064a\u0631 \u0633\u0639\u0648\u062f\u064a",
+   "translatable": 1
+  }
+ ],
+ "istable": 1,
+ "links": [],
+ "modified": "2021-09-26 21:12:50.937270",
+ "modified_by": "Administrator",
+ "module": "KSRNR Customisations",
+ "name": "Dependents Information",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

@@ -1,0 +1,736 @@
+2021-12-18 18:02:27,232 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:03:28,180 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:04:29,279 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:04:32,773 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:04:33,110 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:04:33,187 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:04:33,470 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:04:33,547 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:04:33,959 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:04:34,047 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:04:34,345 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:04:34,423 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:04:34,701 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:04:34,776 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:04:35,248 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:04:35,330 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:04:35,683 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:04:35,769 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:04:36,138 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:04:36,219 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:04:36,531 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:05:30,384 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:06:31,329 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:07:32,316 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:08:33,472 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:08:37,058 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:08:37,376 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:08:37,461 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:08:37,759 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:08:37,839 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:08:38,273 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:08:38,351 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:08:38,659 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:08:38,741 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:08:39,043 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:08:39,120 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:08:39,586 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:08:39,663 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:08:40,012 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:08:40,091 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:08:40,466 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:08:40,547 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:08:40,850 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:09:34,613 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:10:35,607 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:11:36,600 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:12:37,719 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:12:41,300 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:12:41,628 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:12:41,708 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:12:42,010 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:12:42,089 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:12:42,492 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:12:42,571 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:12:42,857 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:12:42,938 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:12:43,213 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:12:43,293 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:12:43,770 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:12:43,847 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:12:44,181 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:12:44,263 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:12:44,624 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:12:44,701 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:12:44,985 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:13:38,857 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:14:39,816 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:15:40,870 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:15:42,089 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 18:15:43,284 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 18:15:43,365 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 18:15:43,764 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 18:15:43,846 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 18:15:44,230 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 18:16:42,080 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:16:45,732 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:16:46,065 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:16:46,154 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:16:46,474 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:16:46,555 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:16:46,979 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:16:47,057 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:16:47,346 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:16:47,424 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:16:47,702 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:16:47,780 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:16:48,253 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:16:48,335 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:16:48,692 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:16:48,768 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:16:49,128 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:16:49,213 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:16:49,523 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:17:43,240 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:18:44,200 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:19:45,162 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:20:46,335 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:20:49,927 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:20:50,237 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:20:50,319 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:20:50,630 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:20:50,707 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:20:51,121 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:20:51,200 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:20:51,508 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:20:51,598 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:20:51,897 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:20:51,974 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:20:52,454 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:20:52,533 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:20:52,877 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:20:52,963 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:20:53,311 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:20:53,393 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:20:53,708 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:21:47,461 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:22:48,364 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:23:49,320 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:24:50,475 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:24:54,031 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:24:54,359 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:24:54,431 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:24:54,705 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:24:54,779 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:24:55,198 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:24:55,272 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:24:55,554 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:24:55,632 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:24:55,925 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:24:56,003 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:24:56,503 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:24:56,580 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:24:56,918 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:24:56,996 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:24:57,343 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:24:57,425 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:24:57,713 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:25:51,665 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:26:52,662 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:27:53,597 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:28:54,712 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:28:58,358 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:28:58,694 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:28:58,775 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:28:59,103 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:28:59,183 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:28:59,603 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:28:59,679 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:28:59,960 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:29:00,039 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:29:00,336 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:29:00,427 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:29:00,904 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:29:00,983 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:29:01,327 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:29:01,409 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:29:01,776 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:29:01,858 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:29:02,179 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:29:55,880 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:30:56,946 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:30:58,702 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for portal.ksrnr.gov.sa
+2021-12-18 18:30:59,155 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for portal.ksrnr.gov.sa
+2021-12-18 18:30:59,243 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 18:31:00,424 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 18:31:00,513 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 18:31:00,913 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 18:31:00,994 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 18:31:01,365 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 18:31:58,007 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:32:59,168 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:33:02,782 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:33:03,131 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:33:03,210 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:33:03,506 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:33:03,589 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:33:04,042 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:33:04,121 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:33:04,416 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:33:04,496 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:33:04,804 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:33:04,885 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:33:05,371 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:33:05,464 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:33:05,835 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:33:05,917 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:33:06,282 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:33:06,372 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:33:06,679 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:34:00,332 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:35:01,284 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:36:02,431 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:36:06,124 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:36:06,486 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:36:06,567 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:36:06,876 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:36:06,957 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:36:07,367 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:36:07,447 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:36:07,732 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:36:07,814 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:36:08,104 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:36:08,182 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:36:08,657 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:36:08,737 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:36:09,089 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:36:09,167 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:36:09,517 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:36:09,589 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:36:09,898 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:37:03,540 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:38:04,524 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:39:05,506 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:40:06,678 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:40:10,688 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:40:11,031 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:40:11,117 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:40:11,431 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:40:11,519 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:40:11,961 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:40:12,045 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:40:12,338 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:40:12,419 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:40:12,732 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:40:12,817 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:40:13,325 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:40:13,401 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:40:13,742 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:40:13,825 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:40:14,227 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:40:14,318 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:40:14,652 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:41:07,824 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:42:08,795 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:43:09,738 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:44:10,842 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:44:14,414 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:44:14,735 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:44:14,813 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:44:15,109 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:44:15,194 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:44:15,650 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:44:15,739 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:44:16,115 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:44:16,199 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:44:16,526 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:44:16,610 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:44:17,119 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:44:17,201 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:44:17,562 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:44:17,651 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:44:18,022 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:44:18,102 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:44:18,429 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:45:12,036 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:45:13,270 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 18:45:14,434 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 18:45:14,517 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 18:45:14,936 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 18:45:15,013 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 18:45:15,400 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 18:46:13,077 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:47:14,040 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:48:15,151 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:48:19,016 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:48:19,350 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:48:19,435 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:48:19,757 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:48:19,846 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:48:20,324 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:48:20,425 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:48:20,737 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:48:20,822 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:48:21,142 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:48:21,232 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:48:21,759 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:48:21,853 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:48:22,232 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:48:22,328 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:48:22,707 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:48:22,796 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:48:23,125 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:49:16,281 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:50:17,227 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:51:18,202 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:52:19,485 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:52:23,204 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:52:23,589 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:52:23,738 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:52:24,118 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:52:24,198 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:52:24,644 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:52:24,736 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:52:25,060 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:52:25,145 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:52:25,445 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:52:25,528 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:52:26,057 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:52:26,136 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:52:26,504 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:52:26,578 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:52:26,925 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:52:27,007 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:52:27,323 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:53:20,811 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:54:21,823 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:55:22,777 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:56:24,085 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:56:27,773 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:56:28,081 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 18:56:28,156 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:56:28,448 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:56:28,526 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:56:28,955 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 18:56:29,037 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:56:29,315 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 18:56:29,395 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:56:29,681 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 18:56:29,757 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:56:30,231 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 18:56:30,313 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:56:30,656 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 18:56:30,733 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:56:31,113 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 18:56:31,191 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:56:31,487 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 18:57:25,236 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:58:26,255 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 18:59:27,263 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:00:28,751 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for portal.ksrnr.gov.sa
+2021-12-18 19:00:29,372 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for portal.ksrnr.gov.sa
+2021-12-18 19:00:29,601 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:00:45,014 INFO scheduler Scheduled Job Start: erpnext.stock.reorder_item.reorder_item for portal.ksrnr.gov.sa
+2021-12-18 19:00:45,348 INFO scheduler Scheduled Job Complete: erpnext.stock.reorder_item.reorder_item for portal.ksrnr.gov.sa
+2021-12-18 19:00:45,445 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for portal.ksrnr.gov.sa
+2021-12-18 19:00:45,923 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for portal.ksrnr.gov.sa
+2021-12-18 19:00:46,008 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for portal.ksrnr.gov.sa
+2021-12-18 19:00:46,402 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for portal.ksrnr.gov.sa
+2021-12-18 19:00:46,486 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for portal.ksrnr.gov.sa
+2021-12-18 19:00:46,849 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for portal.ksrnr.gov.sa
+2021-12-18 19:00:46,935 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for portal.ksrnr.gov.sa
+2021-12-18 19:00:47,400 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for portal.ksrnr.gov.sa
+2021-12-18 19:00:47,487 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:00:47,971 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:00:48,055 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for portal.ksrnr.gov.sa
+2021-12-18 19:00:48,501 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for portal.ksrnr.gov.sa
+2021-12-18 19:00:48,589 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for portal.ksrnr.gov.sa
+2021-12-18 19:00:48,984 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for portal.ksrnr.gov.sa
+2021-12-18 19:00:49,072 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for portal.ksrnr.gov.sa
+2021-12-18 19:00:49,420 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for portal.ksrnr.gov.sa
+2021-12-18 19:00:49,505 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for portal.ksrnr.gov.sa
+2021-12-18 19:00:49,872 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for portal.ksrnr.gov.sa
+2021-12-18 19:00:49,958 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for portal.ksrnr.gov.sa
+2021-12-18 19:00:50,299 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for portal.ksrnr.gov.sa
+2021-12-18 19:00:50,389 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:00:50,721 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:00:50,799 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:00:51,098 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:00:51,175 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:00:51,620 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:00:51,697 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for portal.ksrnr.gov.sa
+2021-12-18 19:00:52,132 INFO scheduler Scheduled Job Failed: erpnext.utilities.doctype.video.video.update_youtube_data for portal.ksrnr.gov.sa
+2021-12-18 19:00:52,216 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for portal.ksrnr.gov.sa
+2021-12-18 19:00:52,632 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for portal.ksrnr.gov.sa
+2021-12-18 19:00:52,714 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for portal.ksrnr.gov.sa
+2021-12-18 19:00:53,294 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for portal.ksrnr.gov.sa
+2021-12-18 19:00:53,378 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for portal.ksrnr.gov.sa
+2021-12-18 19:00:53,762 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for portal.ksrnr.gov.sa
+2021-12-18 19:00:53,843 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for portal.ksrnr.gov.sa
+2021-12-18 19:00:54,185 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for portal.ksrnr.gov.sa
+2021-12-18 19:00:54,277 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for portal.ksrnr.gov.sa
+2021-12-18 19:00:54,659 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for portal.ksrnr.gov.sa
+2021-12-18 19:00:54,744 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for portal.ksrnr.gov.sa
+2021-12-18 19:00:55,101 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for portal.ksrnr.gov.sa
+2021-12-18 19:00:55,180 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for portal.ksrnr.gov.sa
+2021-12-18 19:00:55,571 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for portal.ksrnr.gov.sa
+2021-12-18 19:00:55,654 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for portal.ksrnr.gov.sa
+2021-12-18 19:00:56,010 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for portal.ksrnr.gov.sa
+2021-12-18 19:00:56,096 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:00:56,392 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:00:56,479 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:00:56,770 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:00:56,851 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:00:57,321 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:00:57,404 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:00:57,760 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:00:57,839 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:00:58,210 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:00:58,290 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:00:58,595 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:00:58,682 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 19:00:59,898 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 19:00:59,976 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 19:01:00,362 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 19:01:00,456 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 19:01:00,823 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 19:01:32,029 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:02:32,994 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:03:33,959 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:04:35,105 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:04:38,829 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:04:39,167 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:04:39,248 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:04:39,557 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:04:39,640 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:04:40,070 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:04:40,153 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:04:40,466 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:04:40,550 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:04:40,837 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:04:40,920 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:04:41,434 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:04:41,520 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:04:41,876 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:04:41,961 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:04:42,335 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:04:42,419 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:04:42,717 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:05:36,281 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:06:37,286 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:07:38,263 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:08:39,408 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:08:43,097 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:08:43,424 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:08:43,508 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:08:43,814 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:08:43,900 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:08:44,344 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:08:44,427 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:08:44,725 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:08:44,807 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:08:45,100 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:08:45,179 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:08:45,657 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:08:45,740 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:08:46,097 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:08:46,179 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:08:46,555 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:08:46,633 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:08:46,925 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:09:40,559 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:10:41,510 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:11:42,469 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:12:43,608 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:12:47,231 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:12:47,564 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:12:47,640 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:12:47,932 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:12:48,014 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:12:48,439 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:12:48,523 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:12:48,817 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:12:48,898 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:12:49,204 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:12:49,284 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:12:49,780 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:12:49,858 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:12:50,213 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:12:50,293 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:12:50,666 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:12:50,750 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:12:51,065 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:13:44,730 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:14:45,681 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:15:46,735 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:15:48,035 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 19:15:49,226 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 19:15:49,302 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 19:15:49,682 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 19:15:49,761 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 19:15:50,143 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 19:16:47,913 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:16:51,989 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:16:52,297 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:16:52,372 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:16:52,660 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:16:52,741 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:16:53,152 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:16:53,229 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:16:53,507 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:16:53,583 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:16:53,860 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:16:53,940 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:16:54,401 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:16:54,479 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:16:54,822 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:16:54,906 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:16:55,262 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:16:55,340 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:16:55,651 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:17:49,047 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:18:50,036 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:19:50,987 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:20:52,071 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:20:55,688 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:20:56,042 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:20:56,128 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:20:56,454 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:20:56,535 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:20:56,945 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:20:57,028 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:20:57,324 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:20:57,403 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:20:57,709 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:20:57,792 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:20:58,268 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:20:58,354 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:20:58,718 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:20:58,799 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:20:59,185 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:20:59,264 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:20:59,562 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:21:53,203 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:22:54,209 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:23:55,240 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:24:56,390 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:24:59,944 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:25:00,299 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:25:00,387 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:25:00,706 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:25:00,799 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:25:01,229 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:25:01,312 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:25:01,600 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:25:01,684 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:25:01,994 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:25:02,076 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:25:02,554 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:25:02,638 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:25:03,002 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:25:03,084 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:25:03,445 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:25:03,526 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:25:03,837 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:25:57,544 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:26:58,532 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:27:59,543 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:29:00,675 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:29:04,403 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:29:04,743 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:29:04,826 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:29:05,141 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:29:05,224 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:29:05,683 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:29:05,774 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:29:06,080 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:29:06,158 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:29:06,457 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:29:06,541 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:29:07,052 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:29:07,135 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:29:07,506 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:29:07,588 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:29:07,969 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:29:08,056 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:29:08,382 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:30:01,946 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:30:03,685 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for portal.ksrnr.gov.sa
+2021-12-18 19:30:04,168 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for portal.ksrnr.gov.sa
+2021-12-18 19:30:04,251 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 19:30:05,498 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 19:30:05,580 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 19:30:06,019 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 19:30:06,099 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 19:30:06,500 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 19:31:03,023 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:32:04,187 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:32:07,926 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:32:08,263 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:32:08,349 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:32:08,661 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:32:08,745 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:32:09,187 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:32:09,270 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:32:09,562 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:32:09,644 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:32:09,940 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:32:10,022 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:32:10,530 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:32:10,611 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:32:10,957 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:32:11,036 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:32:11,401 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:32:11,485 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:32:11,786 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:33:05,391 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:34:06,403 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:35:07,368 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:36:08,494 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:36:12,187 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:36:12,519 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:36:12,605 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:36:12,912 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:36:12,998 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:36:13,426 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:36:13,507 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:36:13,796 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:36:13,875 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:36:14,180 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:36:14,266 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:36:14,759 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:36:14,842 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:36:15,199 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:36:15,283 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:36:15,668 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:36:15,755 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:36:16,066 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:37:09,657 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:38:10,660 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:39:11,627 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:40:12,771 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:40:17,109 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:40:17,440 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:40:17,515 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:40:17,798 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:40:17,877 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:40:18,279 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:40:18,354 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:40:18,644 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:40:18,724 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:40:19,009 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:40:19,085 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:40:19,550 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:40:19,628 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:40:19,972 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:40:20,050 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:40:20,411 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:40:20,501 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:40:20,794 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:41:13,945 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:42:14,922 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:43:15,894 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:44:17,035 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:44:20,554 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:44:20,878 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:44:20,951 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:44:21,261 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:44:21,345 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:44:21,754 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:44:21,843 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:44:22,132 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:44:22,207 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:44:22,490 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:44:22,568 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:44:23,068 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:44:23,146 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:44:23,493 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:44:23,570 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:44:23,932 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:44:24,013 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:44:24,314 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:45:18,169 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:45:19,441 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 19:45:20,628 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for portal.ksrnr.gov.sa
+2021-12-18 19:45:20,711 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 19:45:21,118 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for portal.ksrnr.gov.sa
+2021-12-18 19:45:21,200 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 19:45:21,593 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for portal.ksrnr.gov.sa
+2021-12-18 19:46:19,230 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:47:20,218 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:48:21,367 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:48:25,001 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:48:25,328 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:48:25,413 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:48:25,713 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:48:25,804 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:48:26,230 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:48:26,318 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:48:26,612 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:48:26,695 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:48:26,986 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:48:27,070 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:48:27,569 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:48:27,653 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:48:28,014 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:48:28,095 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:48:28,459 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:48:28,540 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:48:28,885 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:49:22,506 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:50:23,478 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:51:24,446 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:52:25,590 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:52:29,257 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:52:29,572 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:52:29,653 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:52:29,966 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:52:30,046 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:52:30,488 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:52:30,570 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:52:30,861 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:52:30,945 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:52:31,230 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:52:31,308 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:52:31,810 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:52:31,895 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:52:32,262 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:52:32,345 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:52:32,730 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:52:32,814 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:52:33,136 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:53:26,762 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:54:27,723 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:55:28,675 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:56:29,875 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:56:33,414 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:56:33,740 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for portal.ksrnr.gov.sa
+2021-12-18 19:56:33,824 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:56:34,137 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:56:34,218 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:56:34,651 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for portal.ksrnr.gov.sa
+2021-12-18 19:56:34,738 INFO scheduler Scheduled Job Start: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:56:35,036 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for portal.ksrnr.gov.sa
+2021-12-18 19:56:35,116 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:56:35,429 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 19:56:35,516 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:56:36,023 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 19:56:36,105 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:56:36,571 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 19:56:36,658 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:56:37,072 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 19:56:37,158 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:56:37,497 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 19:57:31,016 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:58:32,003 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 19:59:32,945 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 20:00:34,393 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for portal.ksrnr.gov.sa
+2021-12-18 20:00:34,989 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for portal.ksrnr.gov.sa
+2021-12-18 20:00:35,146 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa
+2021-12-18 20:00:51,148 INFO scheduler Scheduled Job Start: erpnext.stock.reorder_item.reorder_item for portal.ksrnr.gov.sa
+2021-12-18 20:00:51,527 INFO scheduler Scheduled Job Complete: erpnext.stock.reorder_item.reorder_item for portal.ksrnr.gov.sa
+2021-12-18 20:00:51,613 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for portal.ksrnr.gov.sa
+2021-12-18 20:00:52,119 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for portal.ksrnr.gov.sa
+2021-12-18 20:00:52,224 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for portal.ksrnr.gov.sa
+2021-12-18 20:00:52,635 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for portal.ksrnr.gov.sa
+2021-12-18 20:01:37,330 DEBUG scheduler Queued events for site portal.ksrnr.gov.sa

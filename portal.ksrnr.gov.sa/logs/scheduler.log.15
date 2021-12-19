@@ -1,0 +1,10 @@
+2021-12-18 23:29:03,890 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 23:29:04,191 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for portal.ksrnr.gov.sa
+2021-12-18 23:29:04,281 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 23:29:04,776 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for portal.ksrnr.gov.sa
+2021-12-18 23:29:04,857 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 23:29:05,215 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for portal.ksrnr.gov.sa
+2021-12-18 23:29:05,295 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 23:29:05,671 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for portal.ksrnr.gov.sa
+2021-12-18 23:29:05,762 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for portal.ksrnr.gov.sa
+2021-12-18 23:29:06,083 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for portal.ksrnr.gov.sa

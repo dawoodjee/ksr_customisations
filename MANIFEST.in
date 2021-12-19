@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ksr_customisations *.css
+recursive-include ksr_customisations *.csv
+recursive-include ksr_customisations *.html
+recursive-include ksr_customisations *.ico
+recursive-include ksr_customisations *.js
+recursive-include ksr_customisations *.json
+recursive-include ksr_customisations *.md
+recursive-include ksr_customisations *.png
+recursive-include ksr_customisations *.py
+recursive-include ksr_customisations *.svg
+recursive-include ksr_customisations *.txt
+recursive-exclude ksr_customisations *.pyc

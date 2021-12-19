@@ -1,0 +1,151 @@
+{
+ "actions": [],
+ "creation": "2021-11-18 08:58:59.258227",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_1",
+  "name_1",
+  "column_break_3",
+  "department",
+  "section_break_5",
+  "basic_type",
+  "description",
+  "column_break_8",
+  "subtype_1",
+  "other_1",
+  "subtype_2",
+  "other_2",
+  "subtype_3",
+  "other_3",
+  "impotent",
+  "attach",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_1",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "name_1",
+   "fieldtype": "Link",
+   "label": "\u0627\u0644\u0627\u0633\u0645",
+   "options": "User"
+  },
+  {
+   "fieldname": "column_break_3",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fetch_from": "name_1.department",
+   "fieldname": "department",
+   "fieldtype": "Read Only",
+   "label": "\u0627\u0644\u0625\u062f\u0627\u0631\u0629"
+  },
+  {
+   "fieldname": "section_break_5",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "basic_type",
+   "fieldtype": "Select",
+   "label": "\u0646\u0648\u0639 \u0627\u0644\u0637\u0644\u0628 \u0627\u0644\u0631\u0626\u064a\u0633\u064a",
+   "options": "\n\u0627\u0644\u0639\u0642\u0648\u062f \u0648\u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0627\u062a\n\u0627\u0644\u0622\u0631\u0627\u0621 \u0648\u0627\u0644\u0627\u0633\u062a\u0634\u0627\u0631\u0627\u062a \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629\n\u0623\u062e\u0631\u0649 \u064a\u062a\u0645 \u0630\u0643\u0631\u0647\u0627"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Small Text",
+   "label": "\u0627\u0644\u0648\u0635\u0641"
+  },
+  {
+   "fieldname": "column_break_8",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval:doc.basic_type=='\u0627\u0644\u0639\u0642\u0648\u062f \u0648\u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0627\u062a'",
+   "fieldname": "subtype_1",
+   "fieldtype": "Select",
+   "label": "\u0646\u0648\u0639 \u0627\u0644\u0637\u0644\u0628 \u0627\u0644\u0641\u0631\u0639\u064a",
+   "options": "\n\u0625\u0646\u0634\u0627\u0621 \u0648\u0625\u0639\u062f\u0627\u062f\n\u062f\u0631\u0627\u0633\u0629 \u0648\u0645\u0631\u0627\u062c\u0639\u0629\n\u0623\u062e\u0631\u0649"
+  },
+  {
+   "depends_on": "eval:doc.basic_type=='\u0627\u0644\u0622\u0631\u0627\u0621 \u0648\u0627\u0644\u0627\u0633\u062a\u0634\u0627\u0631\u0627\u062a \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629'",
+   "fieldname": "subtype_2",
+   "fieldtype": "Select",
+   "label": "\u0646\u0648\u0639 \u0627\u0644\u0637\u0644\u0628 \u0627\u0644\u0641\u0631\u0639\u064a",
+   "options": "\n\u0637\u0644\u0628 \u0627\u0633\u062a\u0634\u0627\u0631\u0629\n\u0637\u0644\u0628 \u0631\u0623\u064a \u0642\u0627\u0646\u0648\u0646\u064a"
+  },
+  {
+   "depends_on": "eval:doc.basic_type=='\u0623\u062e\u0631\u0649 \u064a\u062a\u0645 \u0630\u0643\u0631\u0647\u0627'",
+   "fieldname": "subtype_3",
+   "fieldtype": "Select",
+   "label": "\u0646\u0648\u0639 \u0627\u0644\u0637\u0644\u0628 \u0627\u0644\u0641\u0631\u0639\u064a",
+   "options": "\n\u0642\u0636\u064a\u0629\n\u062a\u062d\u0642\u064a\u0642\n\u062a\u0646\u0641\u064a\u0630"
+  },
+  {
+   "fieldname": "impotent",
+   "fieldtype": "Select",
+   "label": "\u0627\u0644\u0623\u0647\u0645\u064a\u0629",
+   "options": "\n\u0639\u0627\u0644\u064a\u0629\n\u0645\u062a\u0648\u0633\u0637\u0629\n\u0645\u0646\u062e\u0641\u0636\u0629"
+  },
+  {
+   "fieldname": "attach",
+   "fieldtype": "Attach",
+   "label": "\u0627\u0644\u0645\u0631\u0641\u0642\u0627\u062a"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Legal",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "depends_on": "eval:doc.subtype_1=='\u0623\u062e\u0631\u0649'",
+   "fieldname": "other_1",
+   "fieldtype": "Data",
+   "label": "\u0623\u062e\u0631\u0649"
+  },
+  {
+   "depends_on": "eval:doc.subtype_2=='\u0623\u062e\u0631\u0649'",
+   "fieldname": "other_2",
+   "fieldtype": "Data",
+   "label": "\u0623\u062e\u0631\u0649"
+  },
+  {
+   "depends_on": "eval:doc.subtype_3=='\u0623\u062e\u0631\u0649'",
+   "fieldname": "other_3",
+   "fieldtype": "Data",
+   "label": "\u0623\u062e\u0631\u0649"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2021-11-18 09:08:56.630250",
+ "modified_by": "Administrator",
+ "module": "KSRNR Customisations",
+ "name": "Legal",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

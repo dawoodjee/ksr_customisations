@@ -1,0 +1,188 @@
+{
+ "actions": [],
+ "autoname": "field:route",
+ "creation": "2013-01-15 16:13:36",
+ "description": "Description of a Job Opening",
+ "doctype": "DocType",
+ "document_type": "Document",
+ "engine": "InnoDB",
+ "field_order": [
+  "job_title",
+  "company",
+  "status",
+  "column_break_5",
+  "designation",
+  "department",
+  "staffing_plan",
+  "city",
+  "planned_vacancies",
+  "section_break_6",
+  "publish",
+  "route",
+  "column_break_12",
+  "job_application_route",
+  "section_break_14",
+  "description",
+  "section_break_16",
+  "currency",
+  "lower_range",
+  "upper_range",
+  "column_break_20",
+  "publish_salary_range"
+ ],
+ "fields": [
+  {
+   "fieldname": "job_title",
+   "fieldtype": "Data",
+   "in_global_search": 1,
+   "in_list_view": 1,
+   "label": "Job Title",
+   "reqd": 1
+  },
+  {
+   "fieldname": "company",
+   "fieldtype": "Link",
+   "label": "Company",
+   "options": "Company",
+   "reqd": 1
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Status",
+   "options": "Open\nClosed"
+  },
+  {
+   "fieldname": "column_break_5",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "designation",
+   "fieldtype": "Link",
+   "label": "Designation",
+   "options": "Designation",
+   "reqd": 1
+  },
+  {
+   "fieldname": "department",
+   "fieldtype": "Link",
+   "label": "Department",
+   "options": "Department"
+  },
+  {
+   "fieldname": "staffing_plan",
+   "fieldtype": "Link",
+   "label": "Staffing Plan",
+   "options": "Staffing Plan",
+   "read_only": 1
+  },
+  {
+   "fieldname": "city",
+   "fieldtype": "Select",
+   "in_filter": 1,
+   "in_global_search": 1,
+   "in_list_view": 1,
+   "in_preview": 1,
+   "label": "City",
+   "options": "\n\u0627\u0644\u0631\u064a\u0627\u0636\n\u062d\u0627\u0626\u0644\n\u0627\u0644\u0642\u0631\u064a\u0627\u062a",
+   "reqd": 1
+  },
+  {
+   "depends_on": "staffing_plan",
+   "fieldname": "planned_vacancies",
+   "fieldtype": "Int",
+   "label": "Planned number of Positions",
+   "read_only": 1
+  },
+  {
+   "fieldname": "section_break_6",
+   "fieldtype": "Section Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "publish",
+   "fieldtype": "Check",
+   "label": "Publish on website"
+  },
+  {
+   "depends_on": "publish",
+   "fieldname": "route",
+   "fieldtype": "Data",
+   "label": "Route",
+   "unique": 1
+  },
+  {
+   "fieldname": "column_break_12",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "publish",
+   "description": "Route to the custom Job Application Webform",
+   "fieldname": "job_application_route",
+   "fieldtype": "Data",
+   "label": "Job Application Route"
+  },
+  {
+   "fieldname": "section_break_14",
+   "fieldtype": "Section Break"
+  },
+  {
+   "description": "Job profile, qualifications required etc.",
+   "fieldname": "description",
+   "fieldtype": "Text Editor",
+   "in_global_search": 1,
+   "in_list_view": 1,
+   "label": "Description"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "section_break_16",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "currency",
+   "fieldtype": "Link",
+   "label": "Currency",
+   "options": "Currency"
+  },
+  {
+   "fieldname": "lower_range",
+   "fieldtype": "Currency",
+   "label": "Lower Range",
+   "options": "currency",
+   "precision": "0"
+  },
+  {
+   "fieldname": "upper_range",
+   "fieldtype": "Currency",
+   "label": "Upper Range",
+   "options": "currency",
+   "precision": "0"
+  },
+  {
+   "fieldname": "column_break_20",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "publish_salary_range",
+   "fieldtype": "Check",
+   "label": "Publish Salary Range"
+  }
+ ],
+ "icon": "fa fa-bookmark",
+ "idx": 1,
+ "links": [],
+ "modified": "2021-09-19 12:34:56.471254",
+ "modified_by": "Administrator",
+ "module": "KSRNR Customisations",
+ "name": "Job Opening",
+ "owner": "Administrator",
+ "permissions": [],
+ "show_name_in_global_search": 1,
+ "sort_field": "modified",
+ "sort_order": "ASC",
+ "track_changes": 1
+}

@@ -1,0 +1,100 @@
+{
+ "actions": [],
+ "creation": "2021-09-09 11:58:41.596891",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "\u0631\u0642\u0645_\u0627\u0644\u0645\u0628\u0646\u0649",
+  "\u0627\u0633\u0645_\u0627\u0644\u0634\u0627\u0631\u0639",
+  "\u0627\u0633\u0645_\u0627\u0644\u062d\u064a",
+  "\u0627\u0633\u0645_\u0627\u0644\u0645\u062f\u064a\u0646\u0629",
+  "\u0627\u0644\u0631\u0645\u0632_\u0627\u0644\u0628\u0631\u064a\u062f\u064a",
+  "\u0627\u0644\u0631\u0642\u0645_\u0627\u0644\u0627\u0636\u0627\u0641\u064a",
+  "\u0627\u0644\u0639\u0646\u0648\u0627\u0646_\u0627\u0644\u0648\u0637\u0646\u064a"
+ ],
+ "fields": [
+  {
+   "columns": 1,
+   "fieldname": "\u0631\u0642\u0645_\u0627\u0644\u0645\u0628\u0646\u0649",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "label": "\u0631\u0642\u0645 \u0627\u0644\u0645\u0628\u0646\u0649",
+   "search_index": 1,
+   "translatable": 1
+  },
+  {
+   "columns": 2,
+   "fieldname": "\u0627\u0633\u0645_\u0627\u0644\u0634\u0627\u0631\u0639",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u0634\u0627\u0631\u0639",
+   "search_index": 1,
+   "translatable": 1
+  },
+  {
+   "columns": 1,
+   "fieldname": "\u0627\u0633\u0645_\u0627\u0644\u062d\u064a",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u062d\u064a",
+   "search_index": 1,
+   "translatable": 1
+  },
+  {
+   "columns": 1,
+   "fieldname": "\u0627\u0633\u0645_\u0627\u0644\u0645\u062f\u064a\u0646\u0629",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u0645\u062f\u064a\u0646\u0629",
+   "search_index": 1,
+   "translatable": 1
+  },
+  {
+   "columns": 1,
+   "fieldname": "\u0627\u0644\u0631\u0645\u0632_\u0627\u0644\u0628\u0631\u064a\u062f\u064a",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "\u0627\u0644\u0631\u0645\u0632 \u0627\u0644\u0628\u0631\u064a\u062f\u064a",
+   "search_index": 1,
+   "translatable": 1
+  },
+  {
+   "columns": 1,
+   "fieldname": "\u0627\u0644\u0631\u0642\u0645_\u0627\u0644\u0627\u0636\u0627\u0641\u064a",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "\u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0627\u0636\u0627\u0641\u064a",
+   "search_index": 1,
+   "translatable": 1
+  },
+  {
+   "columns": 2,
+   "fieldname": "\u0627\u0644\u0639\u0646\u0648\u0627\u0646_\u0627\u0644\u0648\u0637\u0646\u064a",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "\u0627\u0644\u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0648\u0637\u0646\u064a"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2021-11-08 10:31:34.425697",
+ "modified_by": "Administrator",
+ "module": "KSRNR Customisations",
+ "name": "National Address",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

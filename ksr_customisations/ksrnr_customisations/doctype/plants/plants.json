@@ -1,0 +1,41 @@
+{
+ "actions": [],
+ "creation": "2021-10-12 09:26:51.186229",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "plant_species",
+  "abundance"
+ ],
+ "fields": [
+  {
+   "fieldname": "plant_species",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Plant Species",
+   "print_width": "3",
+   "reqd": 1
+  },
+  {
+   "fieldname": "abundance",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Abundance",
+   "print_width": "2",
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2021-10-12 13:09:05.917682",
+ "modified_by": "Administrator",
+ "module": "KSRNR Customisations",
+ "name": "Plants",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

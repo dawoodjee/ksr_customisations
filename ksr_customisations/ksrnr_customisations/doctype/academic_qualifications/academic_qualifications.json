@@ -1,0 +1,75 @@
+{
+ "actions": [],
+ "creation": "2021-09-08 15:48:16.181999",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "edu_level",
+  "other",
+  "edu_name",
+  "scientific_specialization",
+  "edu_date",
+  "edu_loc",
+  "qualification",
+  "other_att"
+ ],
+ "fields": [
+  {
+   "fieldname": "edu_level",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "\u0627\u0644\u0645\u0624\u0647\u0644 \u0627\u0644\u0639\u0644\u0645\u064a",
+   "options": "\n\u062b\u0627\u0646\u0648\u064a\n\u062f\u0628\u0644\u0648\u0645\n\u0628\u0643\u0627\u0644\u0648\u0631\u064a\u0648\u0633\n\u0645\u0627\u062c\u0633\u062a\u064a\u0631\n\u062f\u0643\u062a\u0648\u0631\u0627\u0647\n\u0623\u062e\u0631\u0649"
+  },
+  {
+   "fieldname": "edu_name",
+   "fieldtype": "Data",
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u0639\u0644\u0645\u064a\u0629"
+  },
+  {
+   "fieldname": "scientific_specialization",
+   "fieldtype": "Data",
+   "label": "\u0627\u0644\u062a\u062e\u0635\u0635 \u0627\u0644\u0639\u0644\u0645\u064a"
+  },
+  {
+   "fieldname": "edu_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0645\u0624\u0647\u0644"
+  },
+  {
+   "fieldname": "edu_loc",
+   "fieldtype": "Data",
+   "label": "\u0645\u0643\u0627\u0646 \u0627\u0635\u062f\u0627\u0631 \u0627\u0644\u0645\u0624\u0647\u0644 \u0627\u0644\u0639\u0644\u0645\u064a"
+  },
+  {
+   "fieldname": "other_att",
+   "fieldtype": "Attach",
+   "label": "\u0645\u0644\u0641\u0627\u062a \u0627\u062e\u0631\u0649"
+  },
+  {
+   "fieldname": "qualification",
+   "fieldtype": "Attach",
+   "label": "\u0627\u0644\u0634\u0647\u0627\u062f\u0629 \u0627\u0644\u0645\u0647\u0646\u064a\u0629"
+  },
+  {
+   "depends_on": "eval:doc.edu_level=='\u0623\u062e\u0631\u0649'",
+   "fieldname": "other",
+   "fieldtype": "Data",
+   "label": "\u0623\u062e\u0631\u0649"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2021-09-14 11:59:26.270414",
+ "modified_by": "Administrator",
+ "module": "KSRNR Customisations",
+ "name": "Academic Qualifications",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

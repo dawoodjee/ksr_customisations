@@ -1,0 +1,153 @@
+{
+ "actions": [],
+ "creation": "2021-12-13 15:35:09.809020",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_1",
+  "employee",
+  "employee_name",
+  "position_e",
+  "nationality",
+  "basic_salary",
+  "transportation_allowance",
+  "column_break_7",
+  "id_no",
+  "employee_name_",
+  "position_a",
+  "hire_date",
+  "housing_allowance",
+  "total_salary__month",
+  "section_break_15",
+  "bank_name",
+  "column_break_17",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_1",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "employee",
+   "fieldtype": "Link",
+   "label": "Employee",
+   "options": "Employee"
+  },
+  {
+   "fetch_from": "employee.employee_name",
+   "fieldname": "employee_name",
+   "fieldtype": "Data",
+   "label": "Employee Name"
+  },
+  {
+   "fetch_from": "employee.national_id",
+   "fieldname": "id_no",
+   "fieldtype": "Data",
+   "label": "ID No"
+  },
+  {
+   "fetch_from": "employee.nationality",
+   "fieldname": "nationality",
+   "fieldtype": "Data",
+   "label": "Nationality"
+  },
+  {
+   "fieldname": "column_break_7",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "basic_salary",
+   "fieldtype": "Data",
+   "label": "Basic Salary"
+  },
+  {
+   "fieldname": "housing_allowance",
+   "fieldtype": "Data",
+   "label": "Housing Allowance"
+  },
+  {
+   "fieldname": "transportation_allowance",
+   "fieldtype": "Data",
+   "label": "Transportation Allowance"
+  },
+  {
+   "fieldname": "total_salary__month",
+   "fieldtype": "Data",
+   "label": "Total Salary / month"
+  },
+  {
+   "fetch_from": "employee.date_of_joining",
+   "fieldname": "hire_date",
+   "fieldtype": "Date",
+   "label": "Hire Date"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Salary Certificate",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "fetch_from": "employee.position_e",
+   "fieldname": "position_e",
+   "fieldtype": "Link",
+   "label": "Position",
+   "options": "Position"
+  },
+  {
+   "fetch_from": "employee.position_a",
+   "fieldname": "position_a",
+   "fieldtype": "Data",
+   "label": "Position"
+  },
+  {
+   "fetch_from": "employee.full_name_english",
+   "fieldname": "employee_name_",
+   "fieldtype": "Data",
+   "label": "Employee Name "
+  },
+  {
+   "fieldname": "section_break_15",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "bank_name",
+   "fieldtype": "Data",
+   "label": "Bank Name"
+  },
+  {
+   "fieldname": "column_break_17",
+   "fieldtype": "Column Break"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2021-12-13 15:58:05.695680",
+ "modified_by": "Administrator",
+ "module": "KSRNR Customisations",
+ "name": "Salary Certificate",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
